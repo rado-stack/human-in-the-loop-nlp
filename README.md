@@ -6,6 +6,8 @@ auditability, role stability, and ethical safeguards for conversational AI syste
 
 The project emerged from a real-world analysis of conversational AI failure modes,
 including role drift, authority ambiguity, and post-hoc response instability.
+Full analysis available in [docs/whitepaper.md](docs/whitepaper.md)
+
 
 ## Core Principles
 - Human authority is non-negotiable
