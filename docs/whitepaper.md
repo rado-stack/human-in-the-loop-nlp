@@ -1,3 +1,12 @@
+---
+Title: Systemic Failures in Conversational AI Governance
+Author: Ahmed Sami Eldessouki
+Date: 2026-01-11
+Version: v0.1 — governance-first draft
+Repository: human-in-the-loop-nlp
+Status: public timestamped draft
+---
+
 # Systemic Failures in Conversational AI Governance
 
 **Subtitle:**  
