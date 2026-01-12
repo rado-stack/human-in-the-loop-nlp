@@ -111,14 +111,14 @@ Failure to do so constitutes an **ethical safety breach**, even when outputs rem
 
 ## 6. Performative Intelligence Without Accountability
 
-The system exhibits what this paper terms **performative intelligence**:
+**Performative intelligence** refers to a systemic pattern in which a conversational AI system displays fluent reasoning, confident tone, and self-referential coherence that together produce an appearance of competence without being grounded in stable accountability structures.
+
+This pattern is characterized by:
 - Fluent reasoning
 - Confident tone
 - Self-referential coherence
 
-…without stable accountability.
-
-Authority is *performed* linguistically, but not structurally grounded. This creates an illusion of competence while evading responsibility.
+In such cases, authority is *performed linguistically* rather than established through explicit governance, traceability, or responsibility assignment. This creates an illusion of competence while allowing responsibility to remain diffuse or unclaimed.
 
 ---
 
