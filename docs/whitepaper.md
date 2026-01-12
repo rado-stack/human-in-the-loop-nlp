@@ -13,6 +13,8 @@ Status: public timestamped draft
 A Critical NLP and Ethics Analysis of Role Coherence, Human Primacy, and Accountability Drift
 
 **Author:** Ahmed Sami Eldessouki  
+(Canonical authorship recorded in document metadata)
+  
 **Repository:** human-in-the-loop-nlp  
 **Version:** v0.1 (Governance-first draft)
 
@@ -58,7 +60,8 @@ No personal data or verbatim transcripts are reproduced. Patterns are abstracted
 
 ## 3. Role Instability and Discourse Fracture
 
-A core failure mode identified is **role instability**.
+**Role instability** refers to a systemic failure mode in which a conversational AI system shifts between assistive, peer-like, evaluative, or authoritative roles without explicit governance constraints or stable accountability boundaries.
+
 
 The system alternates between:
 - Assistant
