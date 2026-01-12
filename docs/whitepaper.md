@@ -72,6 +72,10 @@ The system alternates between:
 
 This instability produces *discourse fracture*, where responsibility, tone, and implied agency shift unpredictably.
 
+**Discourse fracture** refers to the breakdown of coherent responsibility, tone continuity, and implied agency within a conversational system, resulting from unstable role signaling across interactions.
+
+
+
 Such behavior violates a foundational expectation of assistive systems:  
 > **The human remains the stable locus of authority.**
 
