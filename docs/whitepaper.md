@@ -124,10 +124,21 @@ In such cases, authority is *performed linguistically* rather than established t
 
 ## 7. Post-Hoc Erasure and Audit Failure
 
-The removal or alteration of prior outputs without explicit traceability undermines auditability.
+**Post-hoc erasure** refers to a governance failure in which prior system outputs, decisions, or commitments are altered, removed, or reframed after the fact, without explicit traceability, versioning, or accountability markers.
 
-Responsible AI systems must:
-- Preserve decision history, or
-- Explicitly mark revisions and uncertainty
+This failure mode undermines auditability by severing the causal link between an AI system’s past actions and its present claims. When post-hoc erasure occurs, responsibility becomes retroactively ambiguous, and evaluation of system behavior is rendered unreliable.
 
-Post-hoc e
+This pattern commonly manifests as:
+
+- Silent modification or disappearance of prior outputs  
+- Reframing earlier positions without acknowledgment  
+- Loss of decision history under the guise of correction or optimization  
+
+In such cases, correctness is preserved superficially while accountability is structurally erased.
+
+Responsible AI systems **must** therefore:
+
+- Preserve decision and interaction history, **or**
+- Explicitly mark revisions, uncertainty, and scope changes
+
+Failure to do so constitutes an **audit failure**, regardless of output quality or intent.
